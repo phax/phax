@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world 👋
 
 <!--
 **phax/phax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phax&theme=tokyonight"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=phax&theme=tokyonight"/>       
+</p>
+ 
+![Profile views](https://gpvc.arturio.dev/phax)
+![](https://komarev.com/ghpvc/?username=phax)
